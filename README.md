@@ -5,6 +5,14 @@ This project predicts whether a **loan application will be approved or rejected*
 It uses **Machine Learning (Random Forest Classifier)** with **SMOTE** for handling class imbalance and achieves strong predictive performance.  
 
 ---
+## 🚀 Live Demo  
+Try the Loan Approval Predictor online here:  
+
+👉 [**Loan Approval Predictor - Live App**](https://your-username-loan-approval-predictor.streamlit.app/)  
+
+No installation needed — just open the link and test predictions instantly. 🎉  
+
+---
 
 ## 🚀 Features
 - Clean **bank portal style Streamlit App** for deployment  
@@ -67,13 +75,7 @@ It uses **Machine Learning (Random Forest Classifier)** with **SMOTE** for handl
 
 ## 🖥️ Streamlit App
 
-![App Screenshot](<img width="1656" height="872" alt="loan approval predictor screenshot" src="https://github.com/user-attachments/assets/a38cef02-91e9-4e39-a42e-626341f88974" />)  
-
-Run the app locally:
-```bash
-streamlit run app.py
-```
----
+<img width="1656" height="872" alt="loan approval predictor screenshot" src="https://github.com/user-attachments/assets/a38cef02-91e9-4e39-a42e-626341f88974" />
 
 ## 🚀 Live Demo
 
