@@ -97,10 +97,10 @@ Loan-Approval-Predictor/
 
 ## 📌 How It Works
 
-1.User enters applicant details (income, dependents, credit history, etc.)
-2.Model transforms categorical inputs → encoded features
-3.Random Forest predicts loan approval status
-4.App displays Approved/Rejected with probability score
+-User enters applicant details (income, dependents, credit history, etc.)
+-Model transforms categorical inputs → encoded features
+-Random Forest predicts loan approval status
+-App displays Approved/Rejected with probability score
 
 ## 📜 License
 This project is licensed under the MIT License.
