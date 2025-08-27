@@ -83,11 +83,13 @@ Try the Loan Approval Predictor online here:
 
 ## 📂 Project Structure
 Loan-Approval-Predictor/
-│── app.py                        # Streamlit app
-│── loan_model.pkl                # Trained ML model
-│── Loan Approval Predictor.ipynb # Training notebook
-│── images/                       # Plots & visualizations
-│── README.md                     # Project documentation
+│── app.py                        # your Streamlit app
+│── loan_model.pkl                # saved trained model
+│── Loan Approval Predictor.ipynb # notebook (optional)
+│── requirements.txt              # dependencies
+│── README.md
+│── images/                       # plots/screenshots
+
 
 ---
 
