@@ -33,7 +33,8 @@ It uses **Machine Learning (Random Forest Classifier)** with **SMOTE** for handl
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### Correlation Heatmap
-![Correlation Heatmap](<img width="1268" height="754" alt="download" src="https://github.com/user-attachments/assets/533dba70-47ee-48ce-a511-c4b54fed1982" />)  
+![Correlation Heatmap] <img width="1268" height="754" alt="download" src="https://github.com/user-attachments/assets/209ab908-dd59-4892-97c0-8ddb3b82da11" />
+
 
 ---
 
