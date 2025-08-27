@@ -146,7 +146,7 @@ if st.button("🔍 Predict Loan Status"):
         st.markdown(
             """
             <style>
-            .main{
+            .stApp .main{
             background-color:#1E8449
             }
             </style>
@@ -166,7 +166,7 @@ if st.button("🔍 Predict Loan Status"):
         st.markdown(
             """
             <style>
-            .main{
+            .stApp .main{
             background-color:#922B21
             }
             </style>
