@@ -41,16 +41,16 @@ It uses **Machine Learning (Random Forest Classifier)** with **SMOTE** for handl
 ## 🏆 Model Performance
 
 ### ROC-AUC Curve
-![ROC AUC](<img width="536" height="468" alt="download" src="https://github.com/user-attachments/assets/83fbb07e-a54d-428b-9fba-eccc2e6385c6" />)  
+<img width="536" height="468" alt="download" src="https://github.com/user-attachments/assets/83fbb07e-a54d-428b-9fba-eccc2e6385c6" />
 
 ### Average Precision (AP) Curve
-![AP Curve](<img width="691" height="545" alt="download" src="https://github.com/user-attachments/assets/0c41f89f-65d1-4755-bd70-05034891e4ce" />)  
+<img width="691" height="545" alt="download" src="https://github.com/user-attachments/assets/0c41f89f-65d1-4755-bd70-05034891e4ce" />
 
 ### Confusion Matrix
-![Confusion Matrix](<img width="709" height="625" alt="download" src="https://github.com/user-attachments/assets/0485a212-2680-4e2f-8dc8-3d8a9f937a8b" />)  
+<img width="709" height="625" alt="download" src="https://github.com/user-attachments/assets/0485a212-2680-4e2f-8dc8-3d8a9f937a8b" />
 
 ### Feature Importance
-![Feature Importance](<img width="985" height="1219" alt="download" src="https://github.com/user-attachments/assets/75973d31-9294-4b2e-8c57-de121662ebd7" />)  
+<img width="985" height="1219" alt="download" src="https://github.com/user-attachments/assets/75973d31-9294-4b2e-8c57-de121662ebd7" />
 
 ---
 
