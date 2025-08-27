@@ -8,7 +8,7 @@ It uses **Machine Learning (Random Forest Classifier)** with **SMOTE** for handl
 ## 🚀 Live Demo  
 Try the Loan Approval Predictor online here:  
 
-👉
+👉  https://forest-cover-type-ktgzla6jdpjfezzh8kuww8.streamlit.app/
 
 No installation needed — just open the link and test predictions instantly. 🎉  
 
