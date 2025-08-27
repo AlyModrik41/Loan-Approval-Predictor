@@ -17,7 +17,7 @@ It uses **Machine Learning (Random Forest Classifier)** with **SMOTE** for handl
 
 ## 📊 Dataset
 - **Source:** Kaggle Loan Prediction dataset  
-- **Rows:** ~600 records  
+- **Rows:** ~381 records  
 - **Columns:** 14 processed features after encoding  
 
 ---
@@ -33,23 +33,23 @@ It uses **Machine Learning (Random Forest Classifier)** with **SMOTE** for handl
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/heatmap.png)  
+![Correlation Heatmap](<img width="1268" height="754" alt="download" src="https://github.com/user-attachments/assets/0c80bd75-f89f-41c5-8826-1181b3e263cc" />)  
 
 ---
 
 ## 🏆 Model Performance
 
 ### ROC-AUC Curve
-![ROC AUC](images/roc_auc.png)  
+![ROC AUC](<img width="536" height="468" alt="download" src="https://github.com/user-attachments/assets/83fbb07e-a54d-428b-9fba-eccc2e6385c6" />)  
 
 ### Average Precision (AP) Curve
-![AP Curve](images/ap_curve.png)  
+![AP Curve](<img width="691" height="545" alt="download" src="https://github.com/user-attachments/assets/0c41f89f-65d1-4755-bd70-05034891e4ce" />)  
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)  
+![Confusion Matrix](<img width="709" height="625" alt="download" src="https://github.com/user-attachments/assets/0485a212-2680-4e2f-8dc8-3d8a9f937a8b" />)  
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)  
+![Feature Importance](<img width="985" height="1219" alt="download" src="https://github.com/user-attachments/assets/75973d31-9294-4b2e-8c57-de121662ebd7" />)  
 
 ---
 
@@ -66,8 +66,36 @@ It uses **Machine Learning (Random Forest Classifier)** with **SMOTE** for handl
 
 ## 🖥️ Streamlit App
 
-![App Screenshot](images/app_screenshot.png)  
+![App Screenshot](<img width="1656" height="872" alt="loan approval predictor screenshot" src="https://github.com/user-attachments/assets/a38cef02-91e9-4e39-a42e-626341f88974" />)  
 
 Run the app locally:
 ```bash
 streamlit run app.py
+```
+---
+
+## 🚀 Live Demo
+
+Try the Loan Approval Predictor online here:
+
+👉 
+
+## 📂 Project Structure
+Loan-Approval-Predictor/
+│── app.py                        # Streamlit app
+│── loan_model.pkl                # Trained ML model
+│── Loan Approval Predictor.ipynb # Training notebook
+│── images/                       # Plots & visualizations
+│── README.md                     # Project documentation
+
+---
+
+## 📌 How It Works
+
+1.User enters applicant details (income, dependents, credit history, etc.)
+2.Model transforms categorical inputs → encoded features
+3.Random Forest predicts loan approval status
+4.App displays Approved/Rejected with probability score
+
+## 📜 License
+This project is licensed under the MIT License.
